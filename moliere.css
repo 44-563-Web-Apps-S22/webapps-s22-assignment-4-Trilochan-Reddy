@@ -1,31 +1,33 @@
-.speech{
+.name{
+    font-family:'sans-serif';
+    font-size:25px ;
+    color:black;
+    
+    
+}.speech{
     
     font-family:'sans-serif';
-    font-size:9px ;
+    font-size:20px ;
     color:black;
 
 }
 
 .direction{
     font-family:'sans-serif';
-    font-size:9px ;
+    font-size:20px ;
     color:black;
     background-color: lightblue;
     
 
 }
+
 p:hover{
     background-color: yellow;
     color:yellowgreen;
 }
 
 
-.name{
-    font-family:'sans-serif';
-    font-size:10px ;
-    color:black;
-    
-}
+
 
 .dorimene{
 color:brown;
