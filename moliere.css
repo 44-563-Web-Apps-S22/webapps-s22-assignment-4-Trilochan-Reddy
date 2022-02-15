@@ -28,12 +28,23 @@
 .dorimene{
 color:brown;
 }
+.dorimene:hover{
+color: #34eb5e;
+}
 
 .monsieur-jourrdain{
 color:violet;
 }
+
+.monsieur-jourrdain:hover{
+    color:maroon;
+    }
 .dorante{
     color:blue;
+
+}
+.dorante:hover{
+    color:mediumturquoise;
 
 }
 table{
