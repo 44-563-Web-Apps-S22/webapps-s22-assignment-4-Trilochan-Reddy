@@ -2,7 +2,7 @@
     font-family:'sans-serif';
     font-size:15px ;
     color:black;
-    margin-bottom: 0px;   
+      
 }
 .speech{
     
@@ -35,4 +35,29 @@ color:violet;
 .dorante{
     color:blue;
 
+}
+table{
+    border: 1px solid;
+    margin: 10px;
+    
+} 
+th{
+    text-align: center;
+    border: 1px solid;
+    color: blueviolet; 
+    padding:10px;
+    
+}
+tr:nth-child(even) {
+    background-color:goldenrod;
+    padding:10px;
+    
+  }
+td
+{
+    text-align: center;
+    border: 1px solid;
+    color:blue; 
+    padding:10px;
+    
 }
