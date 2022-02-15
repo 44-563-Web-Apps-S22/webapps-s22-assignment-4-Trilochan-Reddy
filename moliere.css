@@ -1,14 +1,14 @@
 .speech{
     
     font-family:'sans-serif';
-    font-size:10px ;
+    font-size:9px ;
     color:black;
 
 }
 
 .direction{
     font-family:'sans-serif';
-    font-size:10px ;
+    font-size:9px ;
     color:black;
     background-color: lightblue;
     
@@ -16,7 +16,7 @@
 }
 p:hover{
     background-color: yellow;
-    color:green;
+    color:yellowgreen;
 }
 
 
@@ -25,4 +25,16 @@ p:hover{
     font-size:10px ;
     color:black;
     
+}
+
+.dorimene{
+color:brown;
+}
+
+.monsieur_jourrdain{
+color:violet;
+}
+.dorante{
+    color:blue;
+
 }
