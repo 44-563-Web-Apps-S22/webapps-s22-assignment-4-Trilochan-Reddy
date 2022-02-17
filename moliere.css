@@ -54,7 +54,7 @@ color:violet;
 }
 table{
     border: 1px solid;
-    margin: 10px;
+    margin: 50px;
     
 } 
 th{
@@ -105,4 +105,8 @@ ul {
   }
   img{
       margin-bottom: 30px;
+  }
+
+  .scene{
+      color:green;
   }
